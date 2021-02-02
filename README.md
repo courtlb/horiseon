@@ -3,7 +3,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Horiseon is a hypothetical tech company that provides web-based services to companies looking to build their online presence. They offer search engine optimization, online reputation management, and social media marketing. These services are designed to help build businesses by increasing hits on their websites, elevating their brand awareness, and reducing advertising costs over time. This project was refactoring the code for Horiseon's landing page, making it more accessible, and cleaning up its stylesheet. 
+Horiseon is a hypothetical marketing agency that provides web-based services to companies looking to build their online presence. They offer search engine optimization, online reputation management, and social media marketing. These services are designed to help build businesses by increasing hits on their websites, elevating their brand awareness, and reducing advertising costs over time. This project was refactoring the code for Horiseon's landing page, making it more accessible, and cleaning up its stylesheet. 
 
 
 ### Built With
